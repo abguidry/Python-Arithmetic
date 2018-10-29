@@ -28,11 +28,10 @@ As stated the "Arith.py" program reads and writes (.txt) arithmetic problems and
   * To *divide* you use the "/" sign
   * to *exponentiate* you use the "^" sign
   ## Valid Input Example
-  
-  22 + 22
-  2 - 1
-  5 * 4
-  3 / 2
-  4 ^ 2
+  22 + 22  
+  2 - 1  
+  5 * 4  
+  3 / 2  
+  4 ^ 2  
   ## Additional Acknowledgements
   This was written for a test grade in my CS 201 Class to show mastery of input and output to and from (.txt) files
