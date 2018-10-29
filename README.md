@@ -17,3 +17,22 @@ As stated the "Arith.py" program reads and writes (.txt) arithmetic problems and
   1) All (.txt) files that are being read from and saved to need to be saved in the same directory as "Arith.py"
   2) You must include ".txt" suffix in the name of your files. (Eg... Read From: math.txt) not (Read From: math)
   3) It is not mandatory to have a file to write to prior to running the program if you do not wish to. I have written it so that if the name of the "Write to:" file does not exist in a certain directory then it will automatically create one for you with the name you put
+  ## Formatting Your Input File
+  The program will only compute addition, subtraction, division, multiplication, and exponentiation.
+  * There must be a space in between the first number and the operation sign as well as another between the sign and second number
+  * You can only do one operation per line
+  * Seperate opperations should be carried out on seperate lines
+  * To *add* you use the "+" sign
+  * To *subtract* you use the "-" sign
+  * To *multiply* you use an asterisk
+  * To *divide* you use the "/" sign
+  * to *exponentiate* you use the "^" sign
+  ## Valid Input Example
+  
+  22 + 22
+  2 - 1
+  5 * 4
+  3 / 2
+  4 ^ 2
+  ## Additional Acknowledgements
+  This was written for a test grade in my CS 201 Class to show mastery of input and output to and from (.txt) files
